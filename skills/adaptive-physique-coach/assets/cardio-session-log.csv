@@ -1,0 +1,1 @@
+session_id,date,start_time,timezone,modality,duration_minutes,active_minutes,purpose,equipment_or_conditions,speed,speed_unit,incline_percent,machine_level,steps_per_minute,power_watts,resistance_value,resistance_unit,average_hr_bpm,session_rpe_0_10,talk_test,local_fatigue_area,local_effort_0_10,rail_support,related_workout_or_activity_id,notes
