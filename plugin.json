@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "adaptive-physique-coach",
+  "version": "1.0.0",
+  "description": "Strength, physique and any cardio coaching from existing training records, with focused current-data analysis and targeted historical lookup.",
+  "homepage": "https://github.com/MikeDoesStuff/adaptive-physique-coach",
+  "repository": "https://github.com/MikeDoesStuff/adaptive-physique-coach",
+  "license": "MIT"
+}

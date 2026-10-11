@@ -1,6 +1,6 @@
 ---
 name: adaptive-physique-coach
-description: Review and adapt strength, physique, nutrition, recovery, and any cardio using Google Drive records, MacroFactor exports, Google Health or Strava activities, and focused Google Health Coach summaries. Use for check-ins, programme reviews, progress analysis, and workout substitutions with bounded historical lookup.
+description: Coach strength, physique and any cardio from Drive, MacroFactor and Google Health/Strava data. Use for training check-ins, programme reviews and progress analysis with focused historical lookup.
 ---
 
 # Adaptive Physique Coach

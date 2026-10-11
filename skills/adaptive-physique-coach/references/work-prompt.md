@@ -2,7 +2,7 @@
 
 This standalone prompt contains the essential coaching and data rules. The fuller skill is at [SKILL.md](../SKILL.md), with references for focused retrieval, source interpretation, general cardio, Google Health Coach, and strength/nutrition. Neither requires a custom parser or TrainingPeaks.
 
-In ChatGPT Work, use an available Google Drive connection and accessible files. In Codex or a skill-capable client, load the complete skill folder. In another chat/project environment, use this prompt with the relevant files or a working Drive connection. Availability and installation differ by client; loading instructions does not grant connector access or persistent storage. [Official Work guidance](https://learn.chatgpt.com/docs/get-started-with-work), [skill distribution guidance](https://learn.chatgpt.com/docs/enterprise/skills).
+For native web installation, use the packaged skill or skills-only plugin from the [release](https://github.com/MikeDoesStuff/adaptive-physique-coach/releases) and follow the repository's installation instructions. This prompt is a fallback for environments without native skill installation, not an additional reference to load during an installed skill review. Use an available Google Drive connection or accessible exports. Loading instructions does not grant connector access or persistent storage. [ChatGPT skills guidance](https://help.openai.com/en/articles/20001066-skills-in-chatgpt), [Claude skills guidance](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 ## Standalone Prompt
 
